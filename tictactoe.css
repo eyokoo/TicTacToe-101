@@ -14,3 +14,8 @@ td {
 table {
   margin: auto auto;
 }
+
+/* tr{
+  flex:grid;
+  grid-template-columns: ; */
+}
